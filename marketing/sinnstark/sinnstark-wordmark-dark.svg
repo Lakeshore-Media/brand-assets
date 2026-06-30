@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" width="560" height="150">
+  <rect width="560" height="150" fill="#101418"/>
+  <g transform="translate(40,8) scale(0.62)">
+  <path d="M 8.00 60.00 L 9.98 53.16 L 11.96 46.94 L 13.93 41.58 L 15.91 37.26 L 17.89 34.11 L 19.87 32.22 L 21.84 31.60 L 23.82 32.22 L 25.80 33.98 L 27.78 36.77 L 29.76 40.41 L 31.73 44.71 L 33.71 49.46 L 35.69 54.42 L 37.67 59.38 L 39.64 64.12 L 41.62 68.46 L 43.60 72.24 L 45.58 75.31 L 47.56 77.58 L 49.53 78.99 L 51.51 79.53 L 53.49 79.22 L 55.47 78.10 L 57.44 76.26 L 59.42 73.82 L 61.40 70.92 L 63.38 67.68 L 65.36 64.28 L 67.33 60.86 L 69.31 57.57 L 71.29 54.54 L 73.27 51.89 L 75.24 49.71 L 77.22 48.07 L 79.20 47.02 L 81.18 46.58 L 83.16 46.72 L 85.13 47.42 L 87.11 48.63 L 89.09 50.26 L 91.07 52.22 L 93.04 54.42 L 95.02 56.75 L 97.00 59.11 L 98.98 61.39 L 100.96 63.50 L 102.93 65.36 L 104.91 66.91 L 106.89 68.08 L 108.87 68.86 L 110.84 69.22 L 112.82 69.17 L 114.80 68.73 L 116.78 67.95 L 118.76 66.86 L 120.73 65.54 L 122.71 64.04 L 124.69 62.44 L 126.67 60.82 L 128.64 59.24 L 130.62 57.77 L 132.60 56.46 L 134.58 55.37 L 136.56 54.53 L 138.53 53.96 L 140.51 53.67 L 142.49 53.67 L 144.47 53.94 L 146.44 54.45 L 148.42 55.17 L 150.40 56.07 L 152.38 57.08 L 154.36 58.18 L 156.33 59.29 L 158.31 60.39 L 160.29 61.41 L 162.27 62.33 L 164.24 63.10 L 166.22 63.70 L 168.20 64.12 L 170.18 64.34 L 172.16 64.36 L 174.13 64.20 L 176.11 63.87 L 178.09 63.39 L 180.07 62.79 L 182.04 62.10 L 184.02 61.35 L 186.00 60.58 L 195.00 60.00" fill="none" stroke="#C9B488" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="210" cy="60" r="18" fill="none" stroke="rgba(127,168,160,0.5)" stroke-width="2"/>
+  <circle cx="210" cy="60" r="11" fill="#C9B488"/>
+  <circle cx="207" cy="57" r="3" fill="#FBFAF7" opacity="0.55"/>
+</g>
+  <text x="40" y="120" font-family="Aileron,'Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="46" letter-spacing="-0.02em" fill="#FBFAF7">sinnstark<tspan fill="#C9B488">.</tspan></text>
+  <text x="44" y="142" font-family="Aileron,'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="11" letter-spacing="0.16em" fill="#C9B488">MARKETING FÜR AKUSTIKER &amp; OPTIKER · BY LAKESHORE MEDIA</text>
+</svg>
