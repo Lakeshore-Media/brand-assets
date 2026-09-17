@@ -39,12 +39,18 @@ Hotlink-ready via **jsDelivr CDN** (empfohlen für E-Mails & externe Einbindung)
 |-------|----------|
 | Raeto Portrait | `https://cdn.jsdelivr.net/gh/Lakeshore-Media/brand-assets@main/photos/portrait/raeto-portrait.png` |
 | Raeto Portrait (Alpha/Freigestellt) | `https://cdn.jsdelivr.net/gh/Lakeshore-Media/brand-assets@main/photos/portrait/raeto-portrait-alpha.png` |
+| Nepomuk Portrait (1080 px) | `https://cdn.jsdelivr.net/gh/Lakeshore-Media/brand-assets@main/photos/portrait/nepomuk-portrait.png` |
+| Nepomuk Portrait (400 px, für Signaturen) | `https://cdn.jsdelivr.net/gh/Lakeshore-Media/brand-assets@main/photos/portrait/nepomuk-portrait-400.png` |
+| Nepomuk Portrait (2048 px, JPG, Print/Web) | `https://cdn.jsdelivr.net/gh/Lakeshore-Media/brand-assets@main/photos/portrait/nepomuk-portrait-2048.jpg` |
 
 ### E-Mail-Signatur — Empfohlene IMG-Tags
 
 ```html
 <!-- Portrait -->
 <img src="https://cdn.jsdelivr.net/gh/Lakeshore-Media/brand-assets@main/photos/portrait/raeto-portrait.png" width="80" height="80" alt="Raeto Königsbauer" style="border-radius:50%">
+
+<!-- Portrait Nepomuk -->
+<img src="https://cdn.jsdelivr.net/gh/Lakeshore-Media/brand-assets@main/photos/portrait/nepomuk-portrait-400.png" width="80" height="80" alt="Nepomuk" style="border-radius:50%">
 
 <!-- Logo Wordmark (auf dunklem Hintergrund: Artboard 1, auf hellem: anpassen) -->
 <img src="https://cdn.jsdelivr.net/gh/Lakeshore-Media/brand-assets@main/logo/wordmark/Artboard 1.png" width="160" alt="Lakeshore Media">
